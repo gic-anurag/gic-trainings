@@ -1,7 +1,5 @@
 package day4;
 
-import com.gridPractice.OuterClass;
-import com.gridPractice.OuterClass.InnerClass;
 
 public class Day4d {
 	
